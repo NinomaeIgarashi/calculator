@@ -58,7 +58,7 @@ function App() {
         </div>
 
         <div className='Brand'>
-          Germarium Industries
+          Geranium Industries
         </div>
 
       </div>
