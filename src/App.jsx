@@ -57,6 +57,10 @@ function App() {
           <CalcButton buttonLabel={'+'} onClick={buttonClickHandler}/>
         </div>
 
+        <div className='Brand'>
+          Germarium Industries
+        </div>
+
       </div>
     </div>
   )
